@@ -1,0 +1,61 @@
+#img {
+   width: 90px;
+   height: 90px;
+   float: left;
+}
+
+#idCard {
+   border: 5px solid black;
+   height: 14em;
+   width: 25em;
+   background-color: #CD5C5C;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 19px 19px 19px 19px;
+}
+
+h1{
+  width: 100%;
+  margin: 0, 30px;
+  text-align: center;
+  font-size: 24pt;
+  font-weight: bold;
+}
+body {
+  background-color: #5499C7;
+  text-align: center;
+}
+
+label {
+  font-size: 11pt;
+  font-weight: bolder;
+  font-family: georgia, serif;
+}
+
+input {
+  margin: 6px;
+}
+
+#btn {
+  margin: 1em;
+  margin-bottom: 10em;
+  border-radius: 6px 6px 6px 6px;
+}
+
+#postFullName {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  text-align: center;
+  font-size: 32px;
+  font-family: sans-serif;
+}
+
+p {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  margin-left: 8px;
+  font-family: sans-serif;
+}
